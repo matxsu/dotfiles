@@ -1,0 +1,13 @@
+// Bordures niri adaptées au thème Noctalia — généré par `niri-theme-border`.
+// Inclus APRÈS noctalia.kdl pour réactiver la bordure que Noctalia désactive.
+// Ne pas éditer à la main : relancer `niri-theme-border` après un changement de palette.
+layout {
+    focus-ring {
+        off
+    }
+    border {
+        width 3
+        active-color "#ffb68f"
+        inactive-color "#46464f"
+    }
+}
